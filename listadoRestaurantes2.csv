@@ -1,0 +1,16 @@
+id_restaurant,name,address,lat,lng,kind_food,photo
+1,"La Flauta","Carrer Aribau 23, 08011 Barcelona",41.38706,2.16122,"Mediterraneo,Tapas",1.jpg
+2,"Piazze d'Italia","Carrer Casanovas 94, 08011 Barcelona",41.38708,2.15711,"Italiano,Mediterraneo",2.jpg
+3,Mosquito,"Carrer Carders 46, 08003 Barcelona",41.38758,2.18056,Asiatico,3.jpg
+4,"La Llar del Filador","Carrer Cortines 13, 08003 Barcelona",41.38935,2.18022,"Queseria,Mediterraneo",4.jpg
+5,"Out of India","Carrer Mallorca 20, 08014 Barcelona",41.37924,2.14311,Indio,5.jpeg
+6,"La Cantina Mexicana","Carrer Valencia 427, 08013 Barcelona",41.40234,2.17566,Mexicano,6.jpg
+7,Piripiri,"Carrer Sardenya 296, 08013 Barcelona",41.40223,2.17522,Portuguesa,7.jpg
+8,Spark,"Carrer Diputacion 329, 08009 Barcelona",41.39423,2.17169,"Braseria,Mediterraneo",8.jpg
+9,"National Burguer","Carrer Nou de la Rambla 22, 08001 Barcelona",41.37861,2.17357,Braseria,9.jpg
+10,Dionisios,"Av.Marques Argenteria 27, 08003 Barcelona",41.38567,2.18544,Griega,10.jpg
+11,Bacoa,"Carrer del Judici 15, 08003 Barcelona",41.37692,2.19028,"Hamburgueseria,Braseria",11.jpg
+12,Makamaka,"Passeig Joan Borbo 76, 08039 Barcelona",41.37598,2.18858,Hamburgueseria,12.jpg
+13,"Arrosseria Gaudi","Avinguda Gaudi 44, 08025 Barcelona",41.40838,2.17454,Arroz,13.jpg
+14,"Arrosseria Xativa","Carrer Bordeus 35, 08029 Barcelona",41.38987,2.14001,Arroz,14.jpg
+15,"Masala73 Curry Bar","Carrer Muntaner 152, 08036 Barcelona",41.39077,2.15436,Indio,15.jpg
